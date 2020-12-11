@@ -1,0 +1,28 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+background-image: linear-gradient(aqua , deepskyblue, darkblue);
+width: 400px;
+color: black;
+height: 28px;
+
+}
+
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+canvas{
+    margin-top: 50px;
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+}
